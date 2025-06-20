@@ -1,0 +1,18 @@
+{
+    "augment_exe_path": "C:\\Users\\baishui\\Desktop\\augment-vip-windows-x86_64.exe",
+    "vsix_folder_path": "C:\\Users\\baishui\\Desktop\\code_baishui\\vsix",
+    "vscode_exe_path": "C:\\D\\Microsoft VS Code\\Code.exe",
+    "log_file_name": "vscode_reset_log.txt",
+    "settings": {
+        "wait_after_augment": 5,
+        "wait_after_reset": 3,
+        "install_timeout": 60,
+        "process_kill_timeout": 10
+    },
+    "messages": {
+        "warning": "警告: 此操作将执行完整的VSCode升级流程!",
+        "description": "包括: 运行Augment、重置VSCode、安装插件",
+        "success": "🎉 VSCode升级流程完成!",
+        "restart_suggestion": "建议重启VSCode以确保所有更改生效"
+    }
+}
